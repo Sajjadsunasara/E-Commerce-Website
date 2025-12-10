@@ -1,2 +1,1 @@
-dist/_redirects  (build ke baad move ho jata hai)
-BUT the right way is:  public/_redirects
+/*    /index.html   200
